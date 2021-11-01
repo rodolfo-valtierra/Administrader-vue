@@ -1,0 +1,8 @@
+users = [
+        {"nombre": "Guztavo", "apellidos": "Kosgaarh", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": true},
+        {"nombre": "Maria", "apellidos": "Diaz", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": true},
+        {"nombre": "Maren", "apellidos": "Stanton", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": false},
+        {"nombre": "Paityn", "apellidos": "Ekstrom", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": true},
+        {"nombre": "Kierre", "apellidos": "Bergson", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": true},
+        {"nombre": "Talan", "apellidos": "Rosser", "correo": "correo@gmail", "area": "Recursos Humanos", "activo": true}
+    ]
